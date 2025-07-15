@@ -42,9 +42,14 @@
         <mxCell id="qPmPJSWQYSYvyi7kfRVx-9" value="SQL&amp;nbsp;&lt;div&gt;connected?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="270" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_rqBkX1GEyzZLxkPlKRW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.08;entryY=0.354;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_rqBkX1GEyzZLxkPlKRW-5">
+        <mxCell id="_rqBkX1GEyzZLxkPlKRW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_rqBkX1GEyzZLxkPlKRW-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="412" as="sourcePoint" />
+            <mxPoint x="600" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="350" />
+              <mxPoint x="600" y="350" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_rqBkX1GEyzZLxkPlKRW-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_rqBkX1GEyzZLxkPlKRW-1">
@@ -60,7 +65,7 @@
             <mxPoint x="520" y="310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_rqBkX1GEyzZLxkPlKRW-5" value="Main Menu:&lt;div&gt;Add teachers&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Change pupil amount&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Generate timetable&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="_rqBkX1GEyzZLxkPlKRW-5" value="Main Menu:&lt;div&gt;Add teachers&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Change pupil amount&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Generate timetable&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Export timetable&lt;/div&gt;&lt;div&gt;Export teachers&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="370" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_rqBkX1GEyzZLxkPlKRW-10" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_rqBkX1GEyzZLxkPlKRW-9" target="_rqBkX1GEyzZLxkPlKRW-5">
@@ -72,8 +77,8 @@
         <mxCell id="_rqBkX1GEyzZLxkPlKRW-9" value="is there a generated timetable stored?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="371" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_rqBkX1GEyzZLxkPlKRW-11" value="Main Menu:&lt;div&gt;Add teachers&lt;/div&gt;&lt;div&gt;Change pupil amount&lt;/div&gt;&lt;div&gt;Generate a new timetable&lt;/div&gt;&lt;div&gt;View a teachers timetable&lt;/div&gt;&lt;div&gt;View amount of pupils in each class&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="371" width="230" height="120" as="geometry" />
+        <mxCell id="_rqBkX1GEyzZLxkPlKRW-11" value="Main Menu:&lt;div&gt;Add teachers&lt;/div&gt;&lt;div&gt;Change pupil amount&lt;/div&gt;&lt;div&gt;Generate a new timetable&lt;/div&gt;&lt;div&gt;View a teachers timetable&lt;/div&gt;&lt;div&gt;View amount of pupils in each class&lt;/div&gt;&lt;div&gt;&lt;div&gt;Export timetable&lt;/div&gt;&lt;div&gt;Export teachers&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="356.5" width="230" height="149" as="geometry" />
         </mxCell>
         <mxCell id="_rqBkX1GEyzZLxkPlKRW-13" value="&lt;div&gt;Create empty timetable Database in SQL&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="280" width="120" height="60" as="geometry" />
