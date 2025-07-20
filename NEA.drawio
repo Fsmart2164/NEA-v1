@@ -86,26 +86,76 @@
         <mxCell id="_rqBkX1GEyzZLxkPlKRW-16" value="&lt;div&gt;load timetable&lt;/div&gt;&lt;div&gt;&amp;nbsp;from sql&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fO54vMzoq-XSmd5Qjlf1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fO54vMzoq-XSmd5Qjlf1-3" target="fO54vMzoq-XSmd5Qjlf1-4">
+        <mxCell id="fO54vMzoq-XSmd5Qjlf1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fO54vMzoq-XSmd5Qjlf1-3" target="fO54vMzoq-XSmd5Qjlf1-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fO54vMzoq-XSmd5Qjlf1-3" value="Generate initial population" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="fO54vMzoq-XSmd5Qjlf1-3" value="Generate initial population" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1392" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fO54vMzoq-XSmd5Qjlf1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fO54vMzoq-XSmd5Qjlf1-4" target="fO54vMzoq-XSmd5Qjlf1-6">
+        <mxCell id="fO54vMzoq-XSmd5Qjlf1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fO54vMzoq-XSmd5Qjlf1-4" target="fO54vMzoq-XSmd5Qjlf1-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fO54vMzoq-XSmd5Qjlf1-4" value="Calculate fitness of population" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="fO54vMzoq-XSmd5Qjlf1-4" value="Calculate fitness&amp;nbsp;&lt;div&gt;of population&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1392" y="138" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fO54vMzoq-XSmd5Qjlf1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fO54vMzoq-XSmd5Qjlf1-6" target="fO54vMzoq-XSmd5Qjlf1-8">
+        <mxCell id="fO54vMzoq-XSmd5Qjlf1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fO54vMzoq-XSmd5Qjlf1-6" target="fO54vMzoq-XSmd5Qjlf1-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fO54vMzoq-XSmd5Qjlf1-6" value="selection&amp;nbsp;&lt;div&gt;(get rid of the unfit)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="fO54vMzoq-XSmd5Qjlf1-6" value="selection&amp;nbsp;&lt;div&gt;(get rid of the unfit)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1392" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fO54vMzoq-XSmd5Qjlf1-8" value="crossbreeding" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="yWH5YEIk07C5A7a1uGac-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fO54vMzoq-XSmd5Qjlf1-8" target="yWH5YEIk07C5A7a1uGac-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fO54vMzoq-XSmd5Qjlf1-8" value="crossbreeding" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1392" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yWH5YEIk07C5A7a1uGac-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yWH5YEIk07C5A7a1uGac-1" target="yWH5YEIk07C5A7a1uGac-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1600" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yWH5YEIk07C5A7a1uGac-1" value="repair function" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yWH5YEIk07C5A7a1uGac-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yWH5YEIk07C5A7a1uGac-3" target="yWH5YEIk07C5A7a1uGac-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWH5YEIk07C5A7a1uGac-3" value="genetic mutation" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1392" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yWH5YEIk07C5A7a1uGac-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yWH5YEIk07C5A7a1uGac-7" target="yWH5YEIk07C5A7a1uGac-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yWH5YEIk07C5A7a1uGac-7" value="repair function" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yWH5YEIk07C5A7a1uGac-11" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yWH5YEIk07C5A7a1uGac-9" target="fO54vMzoq-XSmd5Qjlf1-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1580" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1650" y="550" />
+              <mxPoint x="1650" y="168" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yWH5YEIk07C5A7a1uGac-15" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yWH5YEIk07C5A7a1uGac-9" target="yWH5YEIk07C5A7a1uGac-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWH5YEIk07C5A7a1uGac-9" value="criteria met?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="510" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yWH5YEIk07C5A7a1uGac-14" value="output message saying it was successful and store timetable in sql" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yWH5YEIk07C5A7a1uGac-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.913;entryY=0.97;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yWH5YEIk07C5A7a1uGac-14" target="_rqBkX1GEyzZLxkPlKRW-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
