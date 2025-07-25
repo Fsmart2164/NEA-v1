@@ -77,15 +77,15 @@
             <mxPoint x="520" y="310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QJsNYXhnwNITKUMt3Eq2-2" value="generate a new timetable" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_rqBkX1GEyzZLxkPlKRW-5" target="fO54vMzoq-XSmd5Qjlf1-3" edge="1">
+        <mxCell id="QJsNYXhnwNITKUMt3Eq2-2" value="generate a new timetable" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_rqBkX1GEyzZLxkPlKRW-5" edge="1">
           <mxGeometry x="-0.8825" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="405" y="530" />
               <mxPoint x="700" y="530" />
-              <mxPoint x="700" y="20" />
-              <mxPoint x="1452" y="20" />
+              <mxPoint x="700" y="30" />
             </Array>
             <mxPoint as="offset" />
+            <mxPoint x="850" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QJsNYXhnwNITKUMt3Eq2-20" value="exit" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_rqBkX1GEyzZLxkPlKRW-5" target="QJsNYXhnwNITKUMt3Eq2-19" edge="1">
@@ -118,12 +118,14 @@
         <mxCell id="_rqBkX1GEyzZLxkPlKRW-9" value="is there a generated timetable stored?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="371" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QJsNYXhnwNITKUMt3Eq2-1" value="generate a new timetable" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_rqBkX1GEyzZLxkPlKRW-11" target="fO54vMzoq-XSmd5Qjlf1-3" edge="1">
+        <mxCell id="QJsNYXhnwNITKUMt3Eq2-1" value="generate a new timetable" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_rqBkX1GEyzZLxkPlKRW-11" target="fO54vMzoq-XSmd5Qjlf1-3" edge="1">
           <mxGeometry x="-0.8897" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="845" y="70" />
+              <mxPoint x="845" y="30" />
+              <mxPoint x="1452" y="30" />
             </Array>
             <mxPoint y="1" as="offset" />
+            <mxPoint x="1570" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V8lAPqID9X0f5ABY0hI3-3" value="Modify teachers" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_rqBkX1GEyzZLxkPlKRW-11" target="V8lAPqID9X0f5ABY0hI3-1" edge="1">
@@ -417,7 +419,7 @@
             <mxPoint x="-240" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AK8ajXSOmpAV9PA3FUqV-1" value="Want to modify more teachers?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AK8ajXSOmpAV9PA3FUqV-1" value="Want to modify teachers&amp;nbsp;more ?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-369" y="550" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9dXRt_jeTQlMgvSYc37Z-1" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AK8ajXSOmpAV9PA3FUqV-1">
