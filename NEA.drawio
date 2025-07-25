@@ -148,6 +148,25 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9dXRt_jeTQlMgvSYc37Z-30" value="view a teachers&lt;div&gt;timetable&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_rqBkX1GEyzZLxkPlKRW-11" target="9dXRt_jeTQlMgvSYc37Z-36">
+          <mxGeometry x="-0.685" relative="1" as="geometry">
+            <mxPoint x="990" y="251" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1060" y="431" />
+              <mxPoint x="1060" y="250" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9dXRt_jeTQlMgvSYc37Z-47" value="view amount of&lt;div&gt;&amp;nbsp;pupils in each class&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_rqBkX1GEyzZLxkPlKRW-11" target="9dXRt_jeTQlMgvSYc37Z-48">
+          <mxGeometry x="-0.8911" relative="1" as="geometry">
+            <mxPoint x="400" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="689" />
+            </Array>
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_rqBkX1GEyzZLxkPlKRW-11" value="Main Menu:&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Modify&amp;nbsp;&lt;/span&gt;teachers&lt;/div&gt;&lt;div&gt;Change pupil amount&lt;/div&gt;&lt;div&gt;Generate a new timetable&lt;/div&gt;&lt;div&gt;View a teachers timetable&lt;/div&gt;&lt;div&gt;View amount of pupils in each class&lt;/div&gt;&lt;div&gt;&lt;div&gt;Export timetable&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Exit&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="356.5" width="230" height="149" as="geometry" />
         </mxCell>
@@ -255,8 +274,7 @@
         <mxCell id="QJsNYXhnwNITKUMt3Eq2-15" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QJsNYXhnwNITKUMt3Eq2-13" target="e7MBx-RKfeoT1PmBK_qc-21" edge="1">
           <mxGeometry x="-0.8413" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1150" y="580" />
-              <mxPoint x="1160" y="580" />
+              <mxPoint x="1160" y="510" />
               <mxPoint x="1160" y="780" />
             </Array>
             <mxPoint as="offset" />
@@ -276,7 +294,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QJsNYXhnwNITKUMt3Eq2-19" value="End program" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QJsNYXhnwNITKUMt3Eq2-21" value="exit" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.683;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_rqBkX1GEyzZLxkPlKRW-11" target="QJsNYXhnwNITKUMt3Eq2-19" edge="1">
           <mxGeometry x="-0.931" relative="1" as="geometry">
@@ -378,12 +396,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V8lAPqID9X0f5ABY0hI3-7" value="Change existing teacher" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="V8lAPqID9X0f5ABY0hI3-1" target="V8lAPqID9X0f5ABY0hI3-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9dXRt_jeTQlMgvSYc37Z-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V8lAPqID9X0f5ABY0hI3-1" target="9dXRt_jeTQlMgvSYc37Z-10">
+        <mxCell id="V8lAPqID9X0f5ABY0hI3-7" value="Change existing teacher" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="V8lAPqID9X0f5ABY0hI3-1" target="9dXRt_jeTQlMgvSYc37Z-39" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-440" y="400" as="targetPoint" />
+            <mxPoint x="-299" y="198" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9dXRt_jeTQlMgvSYc37Z-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V8lAPqID9X0f5ABY0hI3-1" target="9dXRt_jeTQlMgvSYc37Z-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-440" y="371" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-439" y="120" />
             </Array>
@@ -398,11 +418,10 @@
         <mxCell id="V8lAPqID9X0f5ABY0hI3-4" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Input DATA&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-610" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V8lAPqID9X0f5ABY0hI3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="V8lAPqID9X0f5ABY0hI3-6" target="V8lAPqID9X0f5ABY0hI3-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="V8lAPqID9X0f5ABY0hI3-6" value="Output every&amp;nbsp;&lt;div&gt;teacher in&amp;nbsp;&lt;/div&gt;&lt;div&gt;console ui&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="-359" y="198" width="120" height="60" as="geometry" />
+        <mxCell id="V8lAPqID9X0f5ABY0hI3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9dXRt_jeTQlMgvSYc37Z-39" target="V8lAPqID9X0f5ABY0hI3-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-299" y="258" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="V8lAPqID9X0f5ABY0hI3-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="V8lAPqID9X0f5ABY0hI3-8" target="V8lAPqID9X0f5ABY0hI3-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -475,11 +494,10 @@
         <mxCell id="9dXRt_jeTQlMgvSYc37Z-5" value="have they inputted&lt;div&gt;&amp;nbsp;as many teachers&amp;nbsp;&lt;div&gt;as they said they&amp;nbsp;&lt;/div&gt;&lt;div&gt;would?&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-625" y="250" width="150" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="9dXRt_jeTQlMgvSYc37Z-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9dXRt_jeTQlMgvSYc37Z-10" target="9dXRt_jeTQlMgvSYc37Z-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9dXRt_jeTQlMgvSYc37Z-10" value="Output every&amp;nbsp;&lt;div&gt;teacher in&amp;nbsp;&lt;/div&gt;&lt;div&gt;console ui&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-500" y="371" width="120" height="60" as="geometry" />
+        <mxCell id="9dXRt_jeTQlMgvSYc37Z-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9dXRt_jeTQlMgvSYc37Z-40" target="9dXRt_jeTQlMgvSYc37Z-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-440" y="431" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9dXRt_jeTQlMgvSYc37Z-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9dXRt_jeTQlMgvSYc37Z-11" target="9dXRt_jeTQlMgvSYc37Z-13">
           <mxGeometry relative="1" as="geometry" />
@@ -506,11 +524,12 @@
         <mxCell id="9dXRt_jeTQlMgvSYc37Z-15" value="does user want to stop deleting?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="649" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9dXRt_jeTQlMgvSYc37Z-19" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.067;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9dXRt_jeTQlMgvSYc37Z-15" target="9dXRt_jeTQlMgvSYc37Z-10">
+        <mxCell id="9dXRt_jeTQlMgvSYc37Z-19" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9dXRt_jeTQlMgvSYc37Z-15" target="9dXRt_jeTQlMgvSYc37Z-40">
           <mxGeometry x="-0.8895" relative="1" as="geometry">
+            <mxPoint x="-491.96000000000004" y="395" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-520" y="689" />
-              <mxPoint x="-520" y="395" />
+              <mxPoint x="-520" y="400" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -523,10 +542,9 @@
         </mxCell>
         <mxCell id="9dXRt_jeTQlMgvSYc37Z-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9dXRt_jeTQlMgvSYc37Z-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="610" as="targetPoint" />
+            <mxPoint x="400" y="760" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-30" y="760" />
-              <mxPoint x="601" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -542,6 +560,70 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9dXRt_jeTQlMgvSYc37Z-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9dXRt_jeTQlMgvSYc37Z-36" target="9dXRt_jeTQlMgvSYc37Z-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="221" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9dXRt_jeTQlMgvSYc37Z-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9dXRt_jeTQlMgvSYc37Z-32" target="9dXRt_jeTQlMgvSYc37Z-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9dXRt_jeTQlMgvSYc37Z-32" value="user selects one" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="122" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dXRt_jeTQlMgvSYc37Z-36" value="Output every&amp;nbsp;&lt;div&gt;teacher in&amp;nbsp;&lt;/div&gt;&lt;div&gt;console ui&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dXRt_jeTQlMgvSYc37Z-39" value="Output every&amp;nbsp;&lt;div&gt;teacher in&amp;nbsp;&lt;/div&gt;&lt;div&gt;console ui&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-359" y="198" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dXRt_jeTQlMgvSYc37Z-40" value="Output every&amp;nbsp;&lt;div&gt;teacher in&amp;nbsp;&lt;/div&gt;&lt;div&gt;console ui&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="371" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dXRt_jeTQlMgvSYc37Z-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9dXRt_jeTQlMgvSYc37Z-41" target="9dXRt_jeTQlMgvSYc37Z-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9dXRt_jeTQlMgvSYc37Z-41" value="Output teacher timetable in a form" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dXRt_jeTQlMgvSYc37Z-45" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9dXRt_jeTQlMgvSYc37Z-43">
+          <mxGeometry x="-0.8085" relative="1" as="geometry">
+            <mxPoint x="1060" y="250" as="targetPoint" />
+            <mxPoint x="1241" y="220" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1200" y="250" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9dXRt_jeTQlMgvSYc37Z-46" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9dXRt_jeTQlMgvSYc37Z-43" target="_rqBkX1GEyzZLxkPlKRW-11">
+          <mxGeometry x="-0.9658" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="156" />
+              <mxPoint x="1280" y="395" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9dXRt_jeTQlMgvSYc37Z-43" value="Select another teacher?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="110" width="120" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="9dXRt_jeTQlMgvSYc37Z-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9dXRt_jeTQlMgvSYc37Z-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="760" />
+              <mxPoint x="601" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9dXRt_jeTQlMgvSYc37Z-48" value="Output A-G class population" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="659" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
