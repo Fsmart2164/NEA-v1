@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="Page-1" id="5TjFJNbgtK6tRQX0CHqg">
-    <mxGraphModel dx="3132" dy="1051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3539" dy="1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,7 +127,7 @@
         <mxCell id="_rqBkX1GEyzZLxkPlKRW-9" value="is there a generated timetable stored?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="371" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QJsNYXhnwNITKUMt3Eq2-1" value="generate a new timetable" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_rqBkX1GEyzZLxkPlKRW-11" target="fO54vMzoq-XSmd5Qjlf1-3" edge="1">
+        <mxCell id="QJsNYXhnwNITKUMt3Eq2-1" value="generate&lt;div&gt;&amp;nbsp;a new&amp;nbsp;&lt;/div&gt;&lt;div&gt;timetable&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_rqBkX1GEyzZLxkPlKRW-11" target="fO54vMzoq-XSmd5Qjlf1-3" edge="1">
           <mxGeometry x="-0.8897" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="845" y="30" />
@@ -163,6 +163,16 @@
             <mxPoint x="400" y="670" as="targetPoint" />
             <Array as="points">
               <mxPoint x="910" y="689" />
+            </Array>
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9dXRt_jeTQlMgvSYc37Z-54" value="Export&lt;div&gt;timetable&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_rqBkX1GEyzZLxkPlKRW-11" target="9dXRt_jeTQlMgvSYc37Z-55">
+          <mxGeometry x="0.2157" relative="1" as="geometry">
+            <mxPoint x="760" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="324" />
+              <mxPoint x="761" y="290" />
             </Array>
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -624,6 +634,18 @@
         </mxCell>
         <mxCell id="9dXRt_jeTQlMgvSYc37Z-48" value="Output A-G class population" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="659" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dXRt_jeTQlMgvSYc37Z-55" value="Export timetable in export folder with custom file type" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="714" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dXRt_jeTQlMgvSYc37Z-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9dXRt_jeTQlMgvSYc37Z-55" target="_rqBkX1GEyzZLxkPlKRW-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="788" y="280" />
+              <mxPoint x="788" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
