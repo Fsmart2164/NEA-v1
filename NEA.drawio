@@ -38,7 +38,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f0rh2OYHiTJL_xP3ZG7_-1" value="import&amp;nbsp;&lt;div&gt;data&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="f0rh2OYHiTJL_xP3ZG7_-2">
+        <mxCell id="f0rh2OYHiTJL_xP3ZG7_-1" value="import&amp;nbsp;&lt;div&gt;data&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="f0rh2OYHiTJL_xP3ZG7_-2" edge="1">
           <mxGeometry x="-0.5584" relative="1" as="geometry">
             <mxPoint x="598" y="-80" as="targetPoint" />
             <mxPoint x="443.1999999999998" y="190" as="sourcePoint" />
@@ -756,20 +756,67 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f0rh2OYHiTJL_xP3ZG7_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f0rh2OYHiTJL_xP3ZG7_-2" target="f0rh2OYHiTJL_xP3ZG7_-3">
+        <mxCell id="f0rh2OYHiTJL_xP3ZG7_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f0rh2OYHiTJL_xP3ZG7_-2" target="f0rh2OYHiTJL_xP3ZG7_-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f0rh2OYHiTJL_xP3ZG7_-2" value="access imports folder and scan names in directory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f0rh2OYHiTJL_xP3ZG7_-2" value="access imports folder and scan names in directory" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="538" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f0rh2OYHiTJL_xP3ZG7_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f0rh2OYHiTJL_xP3ZG7_-3" target="f0rh2OYHiTJL_xP3ZG7_-5">
+        <mxCell id="f0rh2OYHiTJL_xP3ZG7_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f0rh2OYHiTJL_xP3ZG7_-3" target="f0rh2OYHiTJL_xP3ZG7_-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f0rh2OYHiTJL_xP3ZG7_-3" value="transfer from the import folder all files" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="f0rh2OYHiTJL_xP3ZG7_-3" value="transfer from the import folder all files" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="738" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f0rh2OYHiTJL_xP3ZG7_-5" value="add these file names&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="FxzRnUkD6t33MtGkpxOe-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f0rh2OYHiTJL_xP3ZG7_-5" target="FxzRnUkD6t33MtGkpxOe-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1138" y="-80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f0rh2OYHiTJL_xP3ZG7_-5" value="make these files the same file type&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="938" y="-110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FxzRnUkD6t33MtGkpxOe-6" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FxzRnUkD6t33MtGkpxOe-3" target="FxzRnUkD6t33MtGkpxOe-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FxzRnUkD6t33MtGkpxOe-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FxzRnUkD6t33MtGkpxOe-3" target="FxzRnUkD6t33MtGkpxOe-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FxzRnUkD6t33MtGkpxOe-3" value="name already&lt;div&gt;&amp;nbsp;exists?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1098" y="-130" width="122" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FxzRnUkD6t33MtGkpxOe-7" value="no+error message" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FxzRnUkD6t33MtGkpxOe-5" target="qPmPJSWQYSYvyi7kfRVx-5">
+          <mxGeometry x="-0.7794" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1290" y="-260" />
+              <mxPoint x="1290" />
+              <mxPoint x="660" />
+              <mxPoint x="660" y="252" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxzRnUkD6t33MtGkpxOe-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FxzRnUkD6t33MtGkpxOe-5" target="FxzRnUkD6t33MtGkpxOe-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1159" y="-320" />
+              <mxPoint x="1361" y="-320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxzRnUkD6t33MtGkpxOe-5" value="wanna override?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1119" y="-300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FxzRnUkD6t33MtGkpxOe-12" value="print confirmation" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FxzRnUkD6t33MtGkpxOe-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FxzRnUkD6t33MtGkpxOe-9" value="add to database files" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1301" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
