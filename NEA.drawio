@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="Page-1" id="5TjFJNbgtK6tRQX0CHqg">
-    <mxGraphModel dx="2893" dy="2220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1651" dy="1682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,7 +182,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9dXRt_jeTQlMgvSYc37Z-47" value="view amount of&lt;div&gt;&amp;nbsp;pupils in each class&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_rqBkX1GEyzZLxkPlKRW-11" target="9dXRt_jeTQlMgvSYc37Z-48" edge="1">
+        <mxCell id="9dXRt_jeTQlMgvSYc37Z-47" value="view amount of&lt;div&gt;classes&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_rqBkX1GEyzZLxkPlKRW-11" target="9dXRt_jeTQlMgvSYc37Z-48" edge="1">
           <mxGeometry x="-0.8911" relative="1" as="geometry">
             <mxPoint x="400" y="670" as="targetPoint" />
             <Array as="points">
@@ -201,7 +201,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_rqBkX1GEyzZLxkPlKRW-11" value="Main Menu:&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Modify&amp;nbsp;&lt;/span&gt;teachers&lt;/div&gt;&lt;div&gt;Change pupil amount&lt;/div&gt;&lt;div&gt;Generate a new timetable&lt;/div&gt;&lt;div&gt;View a teachers timetable&lt;/div&gt;&lt;div&gt;View amount of pupils in each class&lt;/div&gt;&lt;div&gt;&lt;div&gt;Export timetable&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Exit&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="_rqBkX1GEyzZLxkPlKRW-11" value="Main Menu:&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Modify&amp;nbsp;&lt;/span&gt;teachers&lt;/div&gt;&lt;div&gt;Change pupil amount&lt;/div&gt;&lt;div&gt;Generate a new timetable&lt;/div&gt;&lt;div&gt;View a teachers timetable&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;View amount of classes&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Export timetable&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Exit&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="356.5" width="230" height="149" as="geometry" />
         </mxCell>
         <mxCell id="_rqBkX1GEyzZLxkPlKRW-13" value="&lt;div&gt;Create empty timetable Database in SQL&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -656,7 +656,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9dXRt_jeTQlMgvSYc37Z-48" value="Output A-G class population" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9dXRt_jeTQlMgvSYc37Z-48" value="Output the amount of classes in each year" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="659" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9dXRt_jeTQlMgvSYc37Z-55" value="Export timetable in export folder with custom file type" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
